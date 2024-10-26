@@ -61,4 +61,6 @@ func main() {
 
 ## Install
 
-Wait 'til I push, so I have a URL to give
+````bash
+go get https://github.com/Namularbre/repositoryLib.git
+````
